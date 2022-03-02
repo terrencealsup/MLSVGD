@@ -10,4 +10,4 @@ https://github.com/dilinwang820/Stein-Variational-Gradient-Descent
 
 
 ---
-An example notebook is provided, `MLSVGD-SteadyStateDiffusion.ipynb`, which shows how to use the implementation as well as compares both SVGD and MLSVGD for Bayesian inference.
+An example notebook is provided, `MLSVGD-SteadyStateDiffusion.ipynb`, which shows how to use the implementation as well as compares both SVGD and MLSVGD for Bayesian inference.  For this example, the forward model is implemented in the file `forward_model.py`.  This implementation should be compatible with most Python versions >= 3.6.
