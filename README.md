@@ -8,4 +8,4 @@ An example notebook is also provided, `MLSVGD-SteadyStateDiffusion.ipynb`, which
 
 
 ---
-- T. Alsup, L. Venturi, and B. Peherstorfer. [Multilevel Stein variational gradient descent with applications to Bayesian inverse problems](https://msml21.github.io/papers/id52.pdf). In *Mathematical and Scientific Machine Learning (MSML) 2021*, 2021
+- T. Alsup, L. Venturi, and B. Peherstorfer. [Multilevel Stein variational gradient descent with applications to Bayesian inverse problems](https://msml21.github.io/papers/id52.pdf). In *Mathematical and Scientific Machine Learning (MSML) 2021*, 2021.
